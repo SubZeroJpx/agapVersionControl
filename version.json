@@ -6,6 +6,6 @@
   "iosVersionCode": 43,
   "releaseNotes": "• Improved location accuracy\n• iOS UI fixes\n• Stability improvements",
   "androidLink": "https://play.google.com/store/apps/details?id=com.pnp.agapcaraga",
-  "androidPatrollerLink": "https://github.com/SubZeroJpx/AGAPCISUpdateFile/releases/download/untagged-0bcdcc623b1fc26119b8/AGAP-Caraga-Patrollers.apk",
+  "androidPatrollerLink": "https://raw.githubusercontent.com/SubZeroJpx/AGAP-Caraga-Patrollers/main/AGAP-Caraga-Patrollers-App.apk",
   "iosLink": "https://apps.apple.com/app/id1234567890"
 }
