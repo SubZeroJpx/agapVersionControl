@@ -2,6 +2,7 @@
   "versionName": "1.0.0",
   "versionCode": 39,
   "AGAPpatrollerVersion": "2.0.0",
+  "AGAPpatrollerVersionCode": 1,
   "iosVersionCode": 43,
   "releaseNotes": "• Improved location accuracy\n• iOS UI fixes\n• Stability improvements",
   "androidLink": "https://play.google.com/store/apps/details?id=com.pnp.agapcaraga",
