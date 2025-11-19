@@ -4,7 +4,7 @@
   "AGAPpatrollerVersion": "1.0.0",
   "AGAPpatrollerVersionCode": 1,
   "iosVersionCode": 43,
-  "releaseNotes": "• Improved location accuracy\n• iOS UI fixes\n• Stability improvements\n• Updates on existing hotline numbers",
+  "releaseNotes": "• Improved location accuracy\n• iOS UI fixes\n• Stability improvements\n• Updates for R.T.R Municipal Police Station Hotline",
   "androidLink": "https://play.google.com/store/apps/details?id=com.pnp.agapcaraga",
   "androidPatrollerLink": "https://raw.githubusercontent.com/SubZeroJpx/AGAP-Caraga-Patrollers/main/AGAP-Caraga-Patrollers-App.apk",
   "iosLink": "https://apps.apple.com/app/id1234567890"
