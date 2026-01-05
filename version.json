@@ -1,10 +1,10 @@
-{
+ti{
   "versionName": "1.0.0",
   "versionCode": 48,
   "AGAPpatrollerVersion": "1.0.0",
   "AGAPpatrollerVersionCode": 1,
   "iosVersionCode": 43,
-  "releaseNotes": "• Improved location accuracy\n• UI fixes\n• Stability improvements\n• Update for Esperanza Municipal Police Station Geolocation",
+  "releaseNotes": "• Improved location accuracy\n• UI fixes\n• Stability improvements\n• Geolocation Update for Esperanza Municipal Police Station",
   "androidLink": "https://play.google.com/store/apps/details?id=com.pnp.agapcaraga",
   "androidPatrollerLink": "https://raw.githubusercontent.com/SubZeroJpx/AGAP-Caraga-Patrollers/main/AGAP-Caraga-Patrollers-App.apk",
   "iosLink": "https://apps.apple.com/app/id1234567890"
